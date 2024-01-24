@@ -13,7 +13,7 @@ The skeleton for version 3.0 is obtained from the 3.0.x branch.
 
 ## Related repositories
 
-* <https://github.com/ISID/iPLAss>
+* <https://github.com/dentsusoken/iPLAss>
 
 ## License
 

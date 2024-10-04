@@ -8,7 +8,7 @@ For the guide to use it, please refer to the following documents.
 
 https://iplass.org/en/docs/gettingstarted/installguide/
 
-The master branch is a skeleton project for version 3.2.
+The 3.2.x branch is a skeleton project for version 3.2.
 The skeleton for version 3.1 is obtained from the 3.1.x branch.
 
 ## Related repositories

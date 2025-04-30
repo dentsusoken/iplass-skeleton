@@ -473,6 +473,11 @@ This software includes third party components, as follows:
   Licensed under the Apache License 2.0.
   https://github.com/super-csv/super-csv
 
+- WebAuthn4J
+  Copyright (c) Yoshikazu Nojima.
+  Licensed under the Apache License 2.0.
+  https://github.com/webauthn4j/webauthn4j
+
 - blueimp-canvas-to-blob
   Copyright (c) Sebastian Tschan.
   Licensed under the MIT License.

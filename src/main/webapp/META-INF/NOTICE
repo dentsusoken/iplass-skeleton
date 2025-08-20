@@ -473,6 +473,16 @@ This software includes third party components, as follows:
   Licensed under the Apache License 2.0.
   https://github.com/super-csv/super-csv
 
+- Swagger Core (swagger-core-jakarta, swagger-models-jakarta)
+  Copyright (c) SmartBear Software Inc.
+  Licensed under the Apache License 2.0.
+  https://github.com/swagger-api/swagger-core
+
+- Java JSON Schema Generator (jsonschema-generator, jsonschema-module-jackson)
+  Copyright (c) VicTools.
+  Licensed under the Apache License 2.0.
+  https://github.com/victools/jsonschema-generator
+
 - WebAuthn4J
   Copyright (c) Yoshikazu Nojima.
   Licensed under the Apache License 2.0.

@@ -153,32 +153,7 @@ This software includes third party components, as follows:
   Licensed under the Apache License 2.0.
   https://poi.apache.org/
 
-- Apache Tika core
-  Copyright (c) The Apache Software Foundation.
-  Licensed under the Apache License 2.0.
-  http://tika.apache.org/
-
-- Apache Tika html parser module
-  Copyright (c) The Apache Software Foundation.
-  Licensed under the Apache License 2.0.
-  http://tika.apache.org/
-
-- Apache Tika XML parser module
-  Copyright (c) The Apache Software Foundation.
-  Licensed under the Apache License 2.0.
-  http://tika.apache.org/
-
-- Apache Tika Microsoft parser module
-  Copyright (c) The Apache Software Foundation.
-  Licensed under the Apache License 2.0.
-  http://tika.apache.org/
-
-- Apache Tika PDF parser module
-  Copyright (c) The Apache Software Foundation.
-  Licensed under the Apache License 2.0.
-  http://tika.apache.org/
-
-- Apache Tika ZIP commons
+- Apache Tika
   Copyright (c) The Apache Software Foundation.
   Licensed under the Apache License 2.0.
   http://tika.apache.org/

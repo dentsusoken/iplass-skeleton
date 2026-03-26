@@ -566,3 +566,8 @@ This software includes third party components, as follows:
   Copyright 2015-present Chen Fengyuan
   Released under the MIT license
   https://fengyuanchen.github.io/viewerjs
+
+- jsoup
+  Copyright (c) Jonathan Hedley and jsoup contributors.
+  Licensed under the MIT License.
+  https://jsoup.org/

@@ -89,7 +89,7 @@ dependencies {
 	runtimeOnly 'org.glassfish.expressly:expressly:5.0.0'
 
 	testImplementation 'org.iplass:iplass-test'
-	testImplementation platform('org.junit:junit-bom:5.14.1')
+	testImplementation platform('org.junit:junit-bom:5.14.4')
 	testImplementation 'org.junit.jupiter:junit-jupiter'
 	testRuntimeOnly 'org.junit.platform:junit-platform-engine'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'

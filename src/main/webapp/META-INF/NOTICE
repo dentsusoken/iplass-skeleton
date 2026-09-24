@@ -148,6 +148,11 @@ This software includes third party components, as follows:
   Licensed under the Apache License 2.0.
   http://lucene.apache.org/
 
+- Apache PDFBox 
+  Copyright (c) The Apache Software Foundation.
+  Licensed under the Apache License 2.0.
+  https://pdfbox.apache.org/
+
 - Apache POI
   Copyright (c) The Apache Software Foundation.
   Licensed under the Apache License 2.0.
